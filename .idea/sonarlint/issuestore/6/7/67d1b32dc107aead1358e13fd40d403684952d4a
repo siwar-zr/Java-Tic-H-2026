@@ -1,0 +1,18 @@
+
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(§é§‘ùÿÿÿÿ8Ÿ²è³Å3
+f
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ÓÄîÁýÿÿÿÿ8ý¢ã³Å3
+W	java:S125"<This block of commented-out lines of code should be removed.(Æ±ÛW8£ã³Å3
+]	java:S125"<This block of commented-out lines of code should be removed.(èˆ®©úÿÿÿÿ8£ã³Å3
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(ÓÄîÁýÿÿÿÿ8£ã³Å3
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰18‡Åç³Å3
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§é§‘ùÿÿÿÿ8¦²è³Å3
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(§é§‘ùÿÿÿÿ8¦²è³Å3
+]	java:S125"<This block of commented-out lines of code should be removed.(èˆ®©úÿÿÿÿ8‚£ã³Å3
+X	java:S125!"<This block of commented-out lines of code should be removed.(¦§Ç²8ŠÑä³Å3
+]	java:S125)"<This block of commented-out lines of code should be removed.(Ï›ßÜüÿÿÿÿ8„‚ä³Å3
+]	java:S125,"<This block of commented-out lines of code should be removed.(úÉÁ…úÿÿÿÿ8‚£ã³Å3
+X	java:S1253"<This block of commented-out lines of code should be removed.(‰ŒùÍ8¢Ëã³Å3
