@@ -11,3 +11,7 @@ C
 src/POO.java,0\d\0d9426df306c4fbf1587575311a8ebbc550c293e
 ?
 src/Arrays.java,6\3\633db0627e25cab6910ec2aedfd3bac52672c1c7
+_
+/src/exerciceDivers/Encapsulation/Exercice1.java,a\f\af95c28b34e23386ceb3e92034fcb0a0aa72efc5
+_
+/src/exerciceDivers/Encapsulation/Exercice2.java,4\a\4ab21652bd6b85536b0f18621d37efac93b2ff14
