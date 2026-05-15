@@ -1,6 +1,8 @@
 package finalKeyword;
 
-// final - variable (constante), method (tu ne peux pas lui faire d'override), class (ne peut pas etre héritée)
+// final - variable (constante),
+// method (tu ne peux pas lui faire d'override),
+// class (ne peut pas etre héritée)
 
 final class Calc{
     public final void copyright(){

@@ -1,0 +1,7 @@
+package correctionExamen;
+
+public class JoueurException extends Exception{
+    public JoueurException(String msg){
+        super(msg);
+    }
+}
